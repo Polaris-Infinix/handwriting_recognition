@@ -12,6 +12,8 @@ Note- This is still in development stages and uses very primitive methods to per
 
 Note 2- The roadmap isn't followed in the given order, it can be changed and some updates are pushed faster if they are done 
 
+These exists some pytorch code for temperory working, which will be phased out 
+
 
 
 
