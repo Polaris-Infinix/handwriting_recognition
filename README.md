@@ -1,20 +1,12 @@
-This is a project which tries to recognize the the handwritten digits without any Pytorch or Tensorflow. 
-This deals with the neural network in the most basic level, though its working partially, future updates with tweaks to the network are coming. 
+This project aims to recognize handwritten digits without using PyTorch or TensorFlow. It implements a neural network at the most basic level. Although it is partially functional, future updates with network tweaks are planned.
 
-Upcoming changes;
-1. Proper arrangement of the code and restructing of the code
-2. Proper results of the code
-3. Proper details of the code and their usability
-4. Implementation of the CUDA platform to increase the speed and effiency
+Upcoming Changes:
+1.Proper arrangement and restructuring of the code.
+2.Improved accuracy and reliability of results.
+3.Detailed documentation of the code and its usability.
+4.Integration of the CUDA platform to enhance speed and efficiency.
+Note: This project is still in its development stages and uses very primitive methods to perform all operations.
 
+Additional Note: The roadmap is not strictly sequential; updates may be pushed out of order as they are completed.
 
-Note- This is still in development stages and uses very primitive methods to permorm all the operations 
-
-Note 2- The roadmap isn't followed in the given order, it can be changed and some updates are pushed faster if they are done 
-
-These exists some pytorch code for temperory working, which will be phased out 
-
-
-
-
-
+Temporary Implementation: Currently, some PyTorch code is used for functionality. This will be phased out in future updates.
